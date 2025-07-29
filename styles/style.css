@@ -52,7 +52,7 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  flex-direction: column; /* flexbox elements rendered columnwise */
+  flex-direction: row-reverse; /* flexbox elements rendered columnwise */
   align-items: center;
 }
 
