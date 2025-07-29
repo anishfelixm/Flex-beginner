@@ -9,7 +9,7 @@
   background-color: #5995DA;  /* Blue */
   padding: 20px 0;
   display: flex; /* Flex Container */
-  justify-content: center; /* Flex-start | center | Flex-end | space-around | space-between*/
+  justify-content: center; /* horizontal alignment */
 }
 
 .menu {
@@ -40,4 +40,5 @@
   height: 300px;
   display: flex;
   justify-content: space-between;
+  align-items: center; /* vertical-alignment */
 }
